@@ -15,7 +15,7 @@
                     <img src="/images/logo.svg" alt="Laracasts Logo" width="165" height="16">
                 </a>
             </div>
-            //Testing Git
+            <!--- Testing Git -->
             <div class="mt-8 md:mt-0 flex items-center">
                 @auth
                     <x-dropdown>

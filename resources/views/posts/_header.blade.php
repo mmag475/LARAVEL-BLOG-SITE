@@ -1,10 +1,9 @@
 <header class="max-w-xl mx-auto mt-20 text-center">
             <h1 class="text-4xl">
-                Complete <span class="text-blue-500">Laravel</span> Blog Site
+                Panoramas <span class="text-blue-500">Blog</span> Site
             </h1>
 
-            <h2 class="inline-flex mt-2">By Michael Magro <img src="/images/lary-head.svg"
-                                                               alt="Head of Lary the mascot"></h2>
+            <h2 class="inline-flex mt-2">By Michael Magro</h2>
 
             <div class="space-y-2 lg:space-y-0 lg:space-x-4 mt-8">
                 <!--  Category -->
